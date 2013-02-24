@@ -8,7 +8,7 @@ footer: true
 
 {% img right http://farm5.static.flickr.com/4131/5089976799_ddb0b41c2d_m_d.jpg 240 'Getting my feet wet' %}
 
-My name is Jason. I'm 25 years old. I have an amazing wife, two young daughters, and two small dogs. By day, I am an engineer at [Schweitzer Engineering Labs][SEL].  By night, I'm an [electrical engineering](http://www.eecs.wsu.edu/) graduate student in communication and information theory at [Washington State University][WSU].  In the distant future, I hope do research and possibly teach.
+My name is Jason. I'm 26 years old. I have an amazing wife, two young daughters, and two small dogs. By day, I am an engineer at [Schweitzer Engineering Labs][SEL].  By night, I'm an [electrical engineering](http://www.eecs.wsu.edu/) graduate student in communication and information theory at [Washington State University][WSU].  In the distant future, I hope do research and possibly teach.
 
 [SEL]:http://selinc.com
 [WSU]:http://www.wsu.edu
@@ -33,21 +33,12 @@ My [PGP public key][] available.
 This is my personal blog, giving me a place to talk about my interests, blow off steam, and have some fun. 
 
 The site is hosted on [Linode][], using [Arch Linux][].
+It is composed with [Vim][], managed through [git][], and powered by [Octopress][]. The [source code][] for the site is freely available.
 
 [Linode]:https://www.linode.com/
 [Arch Linux]:https://www.archlinux.org/
-
-I compose this blog with [Vim][], manage its code with [git][], and generate the site with [Jekyll][]. The style is based on the [Octopress][] framework. The [source code][] for the site is freely available.
-
-[Jekyll]:https://github.com/mojombo/jekyll
 [Vim]:http://www.vim.org/
 [git]:http://git-scm.cm
 [Octopress]:http://octopress.org/
 [source code]:http://code.the-graham.com/blog/
-
-The original site design was heavily inspired by similar blogs setup up by [Tate Johnson][], [Raoul Felix][], and [Jack Moffitt][] who generously expose their site's code to the world, to the benefit of lesser coders like me.
-
-[Tate Johnson]:http://tatey.com/about/
-[Raoul Felix]:http://rfelix.com/about/
-[Jack Moffitt]:http://metajack.im/about/
 
