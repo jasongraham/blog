@@ -3,6 +3,7 @@
 .sass-cache
 .gist-cache
 .pygments-cache
+.page_ranks
 _deploy
 public
 sass.old
