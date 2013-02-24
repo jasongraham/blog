@@ -1,3 +1,16 @@
+## README
+
+This is my Octopress based blog.
+
+The content of the articles contained within is Copyrighted by
+[me](http://jason.the-graham.com/about), and available through the 
+[[Creative Commons Attribution-Noncommercial-No Derivative Works License][by-nc-nd].
+
+[by-nc-nd]:http://creativecommons.org/licenses/by-nc-nd/3.0/
+
+I did not write this framework.  Following is the README from the gentlman who
+did write it.
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
