@@ -16,7 +16,7 @@ description: Personal blog of Jason Graham
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: http://feeds.feedburner.com/jason-the-graham
+subscribe_rss: http://jason.the-graham.com/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
