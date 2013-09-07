@@ -15,7 +15,7 @@ Dear Jason,
 Greetings fellow J-Dog!  There [truly aren't enough Jasons in the world][name
 popularity], so it's always a pleasure to meet another.
 
-I apologize for not getting back to you sooner, I've been working to remove
+I apologize for not getting back to you sooner.  I've been working to remove
 a family of ferrets from my email server.  They caused quite a mess.  I had to
 replace my RAMs and reinstall my internet from floppy!  One thing's for sure,
 I won't be using frozen beef packages as extra heat sinks on my overclocked
@@ -24,7 +24,7 @@ email server until I can rig up a more secure enclosure.
 Anyway, I'm now able to look at and see all the emails you've been sending.
 Given the number of this short period, and the subject lines, I expect it's
 quite urgent.  Unfortunately, given my earlier ferret related difficulties,
-the contents of the email weren't retrievable, and all I have is a couple of
+the contents of each email weren't retrievable, and all I have is a couple of
 the headers.  The envelope sealer also is malfunctioning, so I'm needing to
 post this on my blog rather than reply through email.
 
@@ -58,7 +58,7 @@ you've sent me thus far.
   Subject: New Product to Lose up to 15 lbs.  
   
 + Date: Thu, 15 Aug 2013 11:19:46 +0200  
-  From: "Dr.OZ" <jason@absolute-nature.ro>  
+  From: "Dr.OZ" <jason@absolute-naXXXX.ro>  
   Subject: This brand new slimming product is a real sensation  
   
 + Date: Thu, 15 Aug 2013 17:38:28 +0300  
@@ -109,8 +109,8 @@ so that everyone can benefit.
 I am quite interested in your offer.  You see, I haven't been entirely open
 with you.  These ferrets that I'm dealing with are quite large after a week of
 gorging themselves on the beef sitting inside my email server.  I've managed
-to coax them out with some nicely marinated salmon fillets.  I've saved some
-of my beef at least, but now they've holed themselves up in my bedroom and
+to coax them out with some nicely marinated salmon fillets.  Though I've saved
+some of my beef at least, they've now holed themselves up in my bedroom and
 keep biting me whenever I try to go in.  I have an prescription orthopedic
 mattress, without which I can't sleep.  My exhaustion is causing me to black
 out occasionally, or it could possibly be the loss of blood from all of my
@@ -118,8 +118,8 @@ bite wounds.
 
 But how can you help me, you ask?  It's really quite fortuitous that you've
 contacted me at this time.  I figure I can give your slimming product to the
-ferrets so they I can get them back to a more controllable size.  Only with
-your help can I reclaim my home.
+ferrets so I can get them back to a more controllable size.  Only with your
+help can I reclaim my home.
 
 Unfortunately, I am a bit low on cash right now.  Would you accept payment in
 beef?
