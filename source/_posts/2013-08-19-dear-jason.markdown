@@ -3,7 +3,7 @@ layout: post
 title: "Dear Jason"
 date: 2013-08-19 21:09
 comments: true
-categories: [spam, email, humor]
+categories: [spam, email, funny]
 ---
 
 *An open letter to the gentleman (or woman?) behind these emails.*
