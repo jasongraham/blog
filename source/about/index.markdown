@@ -8,7 +8,7 @@ footer: true
 
 {% img right http://farm5.static.flickr.com/4131/5089976799_ddb0b41c2d_m_d.jpg 240 'Getting my feet wet' %}
 
-My name is Jason. I'm 26 years old. I have an amazing wife, two young daughters, and two small dogs. By day, I am an engineer at [Schweitzer Engineering Labs][SEL].  By night, I'm an [electrical engineering](http://www.eecs.wsu.edu/) graduate student in communication and information theory at [Washington State University][WSU].  In the distant future, I hope do research and possibly teach.
+My name is Jason. I have an amazing wife, two young daughters, and two small dogs. By day, I am an engineer at [Schweitzer Engineering Labs][SEL].  By night, I'm an [electrical engineering](http://www.eecs.wsu.edu/) graduate student in communication and information theory at [Washington State University][WSU].  In the distant future, I hope do research and possibly teach.
 
 [SEL]:http://selinc.com
 [WSU]:http://www.wsu.edu
