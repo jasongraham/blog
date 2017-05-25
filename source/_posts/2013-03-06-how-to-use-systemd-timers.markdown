@@ -40,18 +40,12 @@ First, create a service file, and put it wherever it goes on your Linux distribu
 Description=MyScript
 
 [Service]
-Type=simple
 ExecStart=/usr/local/bin/myscript
 {% endcodeblock %}
 
 {% comment %}
 [][] fix syntax highlighting in editor
 {% endcomment %}
-
-Note that it is important to set the `Type` variable to be "simple", not
-"oneshot".  Using "oneshot" makes it so that the script will be run the first
-time, and then systemd thinks that you don't want to run it again, and will
-turn off the timer we make next.
 
 ### Timer File ###
 
